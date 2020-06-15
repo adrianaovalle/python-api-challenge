@@ -50,11 +50,11 @@ The Southern Hemisphere Maximum Temperature vs Latitude plot shows a positive co
 
 ![Figure6](WeatherPy/Images/Fig6.png)
 
-The Northern Hemisphere Humidity vs Latitude plot shows a tendency of a negative correlation, however the r^2 is very low so there is no correlation.
+The Northern Hemisphere Humidity vs Latitude plot shows a  very low  r^2 is so there is no correlation.
 
 ![Figure7](WeatherPy/Images/Fig7.png)
 
-The Southern Hemisphere Humidity vs Latitude plot shows a tendency of a postive correlation, however the r^2 is very low so there is no correlation.
+The Southern Hemisphere Humidity vs Latitude plot shows aa  very low  r^2 is so there is no correlation.
 
 ![Figure8](WeatherPy/Images/Fig8.png)
 
