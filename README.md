@@ -74,3 +74,24 @@ The Southern Hemisphere Wind Speed vs Latitude plot shows no correlation.
 ![Figure12](WeatherPy/Images/Fig12.png)
 
 ## VacationPy
+
+### Summary
+The goal of the following routine is to find hotels in the ideal place in terms of weather.
+
+### Humidity Heatmap
+A humdity heat map was created for random cities across the world.
+![Figure13](VacationPy/Images/Fig1.png)
+
+Cities were selected if they met the follwoing ideal conditions:
+* Max Temperature between 70 and 80F
+* Wind Speed <10mph
+* Cloudiness is 0
+
+Seven cities met the requirements:
+![Table4](VacationPy/Images/Table1.jpg)
+
+The following hotels were selected for each city:
+![Table4](VacationPy/Images/Table2.jpg)
+
+The map of the locations is presented below.
+![Figure14](VacationPy/Images/Fig2.png)
