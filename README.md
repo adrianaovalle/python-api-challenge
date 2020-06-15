@@ -19,6 +19,7 @@ Cities with humidity higher than 100% were removed from the dataset. The basic s
 ![Table2](WeatherPy/Images/Table2.jpg)
 
 Two outliers for Humidity were removed, and the final cleaned dataframe was created. Table below shows a sample of the results.
+
 ![Table3](WeatherPy/Images/Table3.jpg)
 
 #### Plotting the Data
