@@ -94,5 +94,5 @@ Nine cities met the requirements:
 The following hotels were selected for each city:
 ![Table5](VacationPy/Images/Table2.jpg)
 
-The map of the locations is presented below.
+The map of the hotel locations is presented below.
 ![Figure14](VacationPy/Images/Fig2.png)
