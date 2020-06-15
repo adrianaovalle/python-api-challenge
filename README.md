@@ -82,7 +82,6 @@ The goal of the following routine is to find hotels in the ideal place in terms 
 A humdity heat map was created for random cities across the world.
 
 ![Figure13](VacationPy/Images/Fig1.png)
-
 Cities were selected if they met the following ideal conditions:
 * Max Temperature between 70 and 80F
 * Wind Speed <10mph
