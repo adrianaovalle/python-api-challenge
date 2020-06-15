@@ -29,4 +29,46 @@ The latitude vs humidity plot below shows humidities above 50% around the Equato
 
 ![Figure2](WeatherPy/Images/Fig2.png)
 
+The latitude vs cloudiness plot below shows no correlation, data is very sparced.
+
+![Figure3](WeatherPy/Images/Fig3.png)
+
+The latitude vs wind speed plot below shows no correlation, data is very sparced.
+
+![Figure4](WeatherPy/Images/Fig4.png)
+
+### Comparing Northern and Southern Hemispheres
+
+The Northern Hemisphere Maximum Temperature vs Latitude plot shows a negative correlation, temperature decreases as latitude increases. The r^2 is low, but still the tendency can be seen and it correponds to what is expected.
+
+![Figure5](WeatherPy/Images/Fig5.png)
+
+The Southern Hemisphere Maximum Temperature vs Latitude plot shows a positive correlation, temperature increases as negative latitude increases. The r^2 is low, but still the tendency can be seen and it correponds to what is expected.
+
+![Figure6](WeatherPy/Images/Fig6.png)
+
+The Northern Hemisphere Humidity vs Latitude plot shows a tendency of a negative correlation, however the r^2 is very low so there is no correlation.
+
+![Figure7](WeatherPy/Images/Fig7.png)
+
+The Southern Hemisphere Humidity vs Latitude plot shows a tendency of a postive correlation, however the r^2 is very low so there is no correlation.
+
+![Figure8](WeatherPy/Images/Fig8.png)
+
+The Northern Hemisphere Cloudiness vs Latitude plot shows no correlation.
+
+![Figure9](WeatherPy/Images/Fig9.png)
+
+The Southern Hemisphere Cloudiness vs Latitude plot shows no correlation.
+
+![Figure10](WeatherPy/Images/Fig10.png)
+
+The Northern Wind Speed Cloudiness vs Latitude plot shows no correlation.
+
+![Figure11](WeatherPy/Images/Fig11.png)
+
+The Southern Hemisphere Wind Speed vs Latitude plot shows no correlation.
+
+![Figure12](WeatherPy/Images/Fig12.png)
+
 ## VacationPy
