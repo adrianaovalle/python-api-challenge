@@ -12,6 +12,6 @@ Data was randomly selected from OpenWeatherMap API where information about citie
 ![Table1](../Images/Table1.jpg)
 
 
-
+Check
 
 ## VacationPy
