@@ -28,7 +28,7 @@ The latitude vs temperature plot below shows how the temperature increases as la
 
 ![Figure1](WeatherPy/Images/Fig1.png)
 
-The latitude vs humidity plot below shows humidities above 50% around the Equator ~10 to 10degrees, but for the rest od the latitudes humidty can vay from 5 to 100%. There is no apparent correlation.
+The latitude vs humidity plot below shows humidities above 50% around the Equator ~10 to 10degrees, but for the rest of the latitudes humidty can vay from 5 to 100%. There is no apparent correlation.
 
 ![Figure2](WeatherPy/Images/Fig2.png)
 
@@ -46,15 +46,15 @@ The Northern Hemisphere Maximum Temperature vs Latitude plot shows a negative co
 
 ![Figure5](WeatherPy/Images/Fig5.png)
 
-The Southern Hemisphere Maximum Temperature vs Latitude plot shows a positive correlation, temperature increases as negative latitude increases. The r^2 is low, but still the tendency can be seen and it correponds to what is expected.
+The Southern Hemisphere Maximum Temperature vs Latitude plot shows a positive correlation, temperature increases as negative latitude increases, supported by a fair r^2.
 
 ![Figure6](WeatherPy/Images/Fig6.png)
 
-The Northern Hemisphere Humidity vs Latitude plot shows a tendency of a negative correlation, however the r^2 is very low so there is no correlation.
+The Northern Hemisphere Humidity vs Latitude plot shows a  very low  r^2 is so there is no correlation.
 
 ![Figure7](WeatherPy/Images/Fig7.png)
 
-The Southern Hemisphere Humidity vs Latitude plot shows a tendency of a postive correlation, however the r^2 is very low so there is no correlation.
+The Southern Hemisphere Humidity vs Latitude plot shows aa  very low  r^2 is so there is no correlation.
 
 ![Figure8](WeatherPy/Images/Fig8.png)
 
