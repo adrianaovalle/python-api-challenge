@@ -28,7 +28,7 @@ The latitude vs temperature plot below shows how the temperature increases as la
 
 ![Figure1](WeatherPy/Images/Fig1.png)
 
-The latitude vs humidity plot below shows humidities above 50% around the Equator ~10 to 10degrees, but for the rest od the latitudes humidty can vay from 5 to 100%. There is no apparent correlation.
+The latitude vs humidity plot below shows humidities above 50% around the Equator ~10 to 10degrees, but for the rest of the latitudes humidty can vay from 5 to 100%. There is no apparent correlation.
 
 ![Figure2](WeatherPy/Images/Fig2.png)
 
