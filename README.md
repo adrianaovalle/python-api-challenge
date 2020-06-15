@@ -4,6 +4,8 @@
 ### Summary
 The objective of this work is to visualize the weather of 500+ cities across the world of varying distance from the equator.
 The following are the conclusions of the analysis:
+* There is correlation with latitude and temperature: as latitude gets closer to the Equator, temperatures are higher.
+* There is no direct correlation between latitude and humidity, cloudiness or wind speed.
 
 ### Data Analysis
 #### Getting the Data
@@ -63,7 +65,7 @@ The Southern Hemisphere Cloudiness vs Latitude plot shows no correlation.
 
 ![Figure10](WeatherPy/Images/Fig10.png)
 
-The Northern Wind Speed Cloudiness vs Latitude plot shows no correlation.
+The Northern Wind Speed vs Latitude plot shows no correlation.
 
 ![Figure11](WeatherPy/Images/Fig11.png)
 
