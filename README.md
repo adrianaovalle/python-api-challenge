@@ -88,7 +88,7 @@ Cities were selected if they met the following ideal conditions:
 * Wind Speed <10mph
 * Cloudiness is 0
 
-Seven cities met the requirements:
+Nine cities met the requirements:
 ![Table4](VacationPy/Images/Table1.jpg)
 
 The following hotels were selected for each city:
