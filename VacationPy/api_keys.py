@@ -1,2 +1,2 @@
-weather_api_key = "YPUR KEY HERE"
+weather_api_key = "YOUR KEY HERE"
 g_key = "YOUR KEY HERE"
