@@ -1,4 +1,7 @@
 # python-api-challenge
+
+### Note: API-Keys need to be stored in a document called api-keys.py in each one of the folders WeatherPy and VacationsPy for the routines to run. 
+
 ## WeatherPy
 
 ### Summary
@@ -94,5 +97,5 @@ Nine cities met the requirements:
 The following hotels were selected for each city:
 ![Table5](VacationPy/Images/Table2.jpg)
 
-The map of the locations is presented below.
+The map of the hotel locations is presented below.
 ![Figure14](VacationPy/Images/Fig2.png)
