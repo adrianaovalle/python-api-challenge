@@ -49,7 +49,7 @@ The Northern Hemisphere Maximum Temperature vs Latitude plot shows a negative co
 
 ![Figure5](WeatherPy/Images/Fig5.png)
 
-The Southern Hemisphere Maximum Temperature vs Latitude plot shows a positive correlation, temperature increases as negative latitude increases, supported by a fair r^2.
+The Southern Hemisphere Maximum Temperature vs Latitude plot shows a positive correlation, temperature increases as negative latitude increases. The r^2 is low, but still the tendency can be seen and it correponds to what is expected.
 
 ![Figure6](WeatherPy/Images/Fig6.png)
 
