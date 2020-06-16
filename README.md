@@ -1,6 +1,6 @@
 # python-api-challenge
 
-### Note: API-Keys need to be stored in a document called api-keys.py in each one of the folders WeatherPy and VacationsPy for the routines to run. 
+### Note: Plese update API-Keys in the file "api_keys.py" in each folder WeatherPy and VacationPy to run this routine.
 
 ## WeatherPy
 
