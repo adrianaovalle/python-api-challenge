@@ -1,6 +1,5 @@
 # Visualization of weather in 500 cities across the world of varying distance from the Equator
 
-### Note: Plese update API-Keys in the file "api_keys.py" in each folder WeatherPy and VacationPy to run this routine.
 
 ## WeatherPy
 
@@ -99,3 +98,5 @@ The following hotels were selected for each city:
 
 The map of the hotel locations is presented below.
 ![Figure14](VacationPy/Images/Fig2.png)
+
+### Note: Plese update API-Keys in the file "api_keys.py" in each folder WeatherPy and VacationPy to run this routine.
